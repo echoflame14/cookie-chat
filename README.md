@@ -29,7 +29,7 @@ The concepts this project will cover are
 * Fork and clone this repository.
 * You should only touch mainCtrl.js and messageService.js, everything else is already set up for you
 * Although very convenient, because other parts of the application are already set for you, you need to understand what that code is doing in order to work with it.
-* Go and check out the index.html page. You'll notice that in the message-container class there's an ng-repat looping over messages. This means that somehow, you need to have 'messages' on the scope.  Each message should  have a 'message' property.
+* Go and check out the index.html page. You'll notice that in the message-container class there's an ng-repeat looping over messages. This means that somehow, you need to have 'messages' on the scope.  Each message should  have a 'message' property.
 
 
 ### Build your messageService
